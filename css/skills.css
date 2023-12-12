@@ -1,0 +1,30 @@
+body{
+  background-image: url('https://i.pinimg.com/736x/c1/b6/db/c1b6db36952c77a449f7f7febff22f74.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  opacity: 0.6;
+}
+#skills{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    
+  }
+  
+  #other-skills{
+    text-align:center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    
+  }
+
+  .nav{
+    padding: 40px;
+  }
+
+ 
